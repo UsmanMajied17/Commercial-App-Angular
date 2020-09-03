@@ -1,0 +1,10 @@
+C:\Workspace\Xtheia\src\Presistence\bin\Debug\netstandard2.0\Presistence.deps.json
+C:\Workspace\Xtheia\src\Presistence\bin\Debug\netstandard2.0\Presistence.dll
+C:\Workspace\Xtheia\src\Presistence\obj\Debug\netstandard2.0\Presistence.csprojAssemblyReference.cache
+C:\Workspace\Xtheia\src\Presistence\obj\Debug\netstandard2.0\Presistence.AssemblyInfoInputs.cache
+C:\Workspace\Xtheia\src\Presistence\obj\Debug\netstandard2.0\Presistence.AssemblyInfo.cs
+C:\Workspace\XtheiaGo\src\Presistence\bin\Debug\netstandard2.0\Presistence.deps.json
+C:\Workspace\XtheiaGo\src\Presistence\bin\Debug\netstandard2.0\Presistence.dll
+C:\Workspace\XtheiaGo\src\Presistence\obj\Debug\netstandard2.0\Presistence.csprojAssemblyReference.cache
+C:\Workspace\XtheiaGo\src\Presistence\obj\Debug\netstandard2.0\Presistence.AssemblyInfoInputs.cache
+C:\Workspace\XtheiaGo\src\Presistence\obj\Debug\netstandard2.0\Presistence.AssemblyInfo.cs

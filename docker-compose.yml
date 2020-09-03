@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  xtheia.api:
+    image: ${DOCKER_REGISTRY-}xtheia
+    build:
+      context: .
+      dockerfile: src/Client/Xtheia.Api/Dockerfile

@@ -1,0 +1,5 @@
+C:\Workspace\Xtheia\src\Application\bin\Debug\netstandard2.0\Application.deps.json
+C:\Workspace\Xtheia\src\Application\bin\Debug\netstandard2.0\Application.dll
+C:\Workspace\Xtheia\src\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+C:\Workspace\Xtheia\src\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+C:\Workspace\Xtheia\src\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "azRShCE5laE0ZUSWUw8nNnwTglVAH6IgL6VSB/aT2Qg4TTFLbCUa/b7E2OVbUs1duhbb3y/3rx5nqjTcLG9omw==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\XtheiaGo\\src\\Infratructure\\Infratructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

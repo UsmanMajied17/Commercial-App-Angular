@@ -1,0 +1,5 @@
+C:\Workspace\Xtheia\src\Security\bin\Debug\netstandard2.0\Security.deps.json
+C:\Workspace\Xtheia\src\Security\bin\Debug\netstandard2.0\Security.dll
+C:\Workspace\Xtheia\src\Security\obj\Debug\netstandard2.0\Security.csprojAssemblyReference.cache
+C:\Workspace\Xtheia\src\Security\obj\Debug\netstandard2.0\Security.AssemblyInfoInputs.cache
+C:\Workspace\Xtheia\src\Security\obj\Debug\netstandard2.0\Security.AssemblyInfo.cs
