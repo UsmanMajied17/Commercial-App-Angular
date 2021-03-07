@@ -1,0 +1,82 @@
+<aside class="main-sidebar sidebar elevation-4 bg-danger">
+  <!-- Brand Logo -->
+  <!-- Sidebar -->
+  <div class="sidebar">
+    <!-- Sidebar Menu -->
+    <nav class="mt-2">
+      <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+        <!-- Add icons to the links using the .nav-icon class
+             with font-awesome or any other icon font library -->
+        <li class="nav-item" (click)="byeByteSelected('other')">
+          <a routerLink="dashboard" [routerLinkActive]="'nav-link active'">
+            <fa-icon  class="nav-icon" [icon]="faTachometerAlt" ></fa-icon>
+            <p>
+              Dashboard
+
+            </p>
+          </a>
+
+
+        </li>
+        <li class="nav-item" (click)="byeByteSelected('buy')" >
+          <a routerLink="buy-bte" class="nav-link" [routerLinkActive]="'nav-link active'">
+            <fa-icon  class="nav-icon" [icon]="faTh" ></fa-icon>
+            <p>
+              BUY BES TOKENS
+
+            </p>
+          </a>
+        </li>
+        <li class="nav-item" (click)="byeByteSelected('other')">
+          <a routerLink="#" class="nav-link" [routerLinkActive]="'nav-link active'">
+            <fa-icon  class="nav-icon" [icon]="faCopy" ></fa-icon>
+            <p>
+              KNOW YOUR CUSTOMER
+
+            </p>
+          </a>
+
+        </li>
+        <li class="nav-item" (click)="byeByteSelected('other')">
+          <a routerLink="price-calculator" class="nav-link" [routerLinkActive]="'nav-link active'">
+            <fa-icon  class="nav-icon" [icon]="faChartPie" ></fa-icon>
+            <p>
+              PRICE CALCULATION
+
+            </p>
+          </a>
+
+        </li>
+        <li class="nav-item" (click)="byeByteSelected('other')">
+          <a routerLink="transaction-history" class="nav-link" [routerLinkActive]="'nav-link active'">
+            <fa-icon  class="nav-icon" [icon]="faTree" ></fa-icon>
+
+            <p>
+              TRANSACTION HISTORY
+
+            </p>
+          </a>
+
+
+
+        </li>
+        <li class="nav-item" (click)="byeByteSelected('other')">
+          <a routerLink="affiliates" class="nav-link" [routerLinkActive]="'nav-link active'">
+            <fa-icon  class="nav-icon" [icon]="faTachometerAlt" ></fa-icon>
+
+            <p>
+              AFFILIATES
+
+            </p>
+          </a>
+
+
+
+        </li>
+          </ul>
+
+    </nav>
+    <!-- /.sidebar-menu -->
+  </div>
+  <!-- /.sidebar -->
+</aside>

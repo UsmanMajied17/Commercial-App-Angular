@@ -1,0 +1,71 @@
+
+ <section class="content" *ngIf="isByeByteSelected">
+  <div class="container-fluid">
+    <div class="row">
+      <!-- left column -->
+      <div class="col-md">
+  <div class="card card-secondary">
+          <div class="card-header">
+            <h3 class="card-title">BUY BES TOKEN WITH BTC</h3>
+          </div>
+<form role="form">
+<div class="col-md-6">
+            <div class="card-body">
+              <div class="form-group">
+                <span>Amount (BTc)</span>
+                <input type="text" class="form-control" id="exampleInput">
+      <small>Minimum transaction amount is 0.000058 BTCs</small>
+              </div>
+
+      <div class="form-group">
+                <span id="exh-rate">BTC/USD exchange rate</span><br>
+                <span id="btc-rate">1 BTC = 6.58989 USD</span><br>
+      <span id="exh-rate">Amount of BTC tokens</span><br>
+                <span id="btc-rate">including bonus (0%)</span><br>
+              </div>
+
+      <div class="form-group">
+                <span>This is an estimated amount of BES tokens which you will receive</span>
+                <input type="text" class="form-control" id="exampleInput2">
+              </div>
+
+
+
+    </div>
+
+    </div>
+    <div class="card-footer">
+              <button type="submit" class="btn btn-danger">Click to Continue</button>
+            </div>
+</form>
+</div>
+</div>
+    </div>
+    </div>
+</section>
+<div class="hold-transition sidebar-mini">
+  <div class="wrapper">
+
+
+    <!-- Main Sidebar Container -->
+    <app-sidenav (showBuyBte)="showBteSection($event)"></app-sidenav>
+
+    <!-- Content Wrapper. Contains page content -->
+    <div class="content-wrapper">
+      <!-- Content Header (Page header) -->
+      <!-- Main content -->
+      <section class="content">
+        <router-outlet></router-outlet>
+        <!-- Default box -->
+        <!-- /.card -->
+
+      </section>
+      <!-- /.content -->
+    </div>
+    <!-- /.content-wrapper -->
+
+
+    <!-- /.control-sidebar -->
+  </div>
+</div>
+
